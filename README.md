@@ -40,4 +40,10 @@ Linux e o meu setup é um leptop positivo com 4g de memoria <br />
 hd mecânico de 500g processador Celeron(R) Dual-Core CPU T3300 2.00GHz <br />
 placa mãe POSITIVO M14<br />
  [Creditos](https://medium.com/canivete-sui%C3%A7o-hacker/instala-e-configurar-o-openbox-37c054c759f2)<br />
- [Instalação mimima Debian](https://medium.com/canivete-sui%C3%A7o-hacker/guia-para-uma-instala%C3%A7%C3%A3o-m%C3%ADnima-do-debian-linux-debian-core-abee1218d6b)
+ [Instalação mimima Debian](https://medium.com/canivete-sui%C3%A7o-hacker/guia-para-uma-instala%C3%A7%C3%A3o-m%C3%ADnima-do-debian-linux-debian-core-abee1218d6b)<br />
+ # Ajuda para estudos e laboratorio
+ 
+![openbox](https://user-images.githubusercontent.com/20734038/143509108-dff83ac0-aa78-4219-98a5-b76a91b1cd98.png)
+
+# Obrigado!
+ 
